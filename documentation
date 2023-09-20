@@ -1,0 +1,30 @@
+# Calculator Project
+
+This project implements a simple calculator with basic arithmetic operations.
+
+## Methods
+
+### `add(int a, int b)`
+
+This method adds two integers `a` and `b` and returns the result.
+
+### `subtract(int a, int b)`
+
+This method subtracts integer `b` from integer `a` and returns the result.
+
+### `multiply(int a, int b)`
+
+This method multiplies two integers `a` and `b` and returns the result.
+
+### `divide(int a, int b)`
+
+This method divides integer `a` by integer `b` and returns the result. It throws an `ArithmeticException` if `b` is zero.
+
+## Running Tests
+
+To run the unit tests, use your IDE (e.g., IntelliJ IDEA) or a build tool (e.g., Gradle). The tests are located in the `CalculatorTest` class.
+
+## Tomasz Domagalski
+
+[Tomasz Domagalski]
+
